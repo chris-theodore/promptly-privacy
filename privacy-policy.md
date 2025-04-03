@@ -62,5 +62,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## 8. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: promptly.app@gmail.com
+- Email: thepromptly@gmail.com
 - Through the app: Settings > Help & Support 
